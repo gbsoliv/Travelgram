@@ -1,16 +1,5 @@
 @import url(global.css);
 
-
-
-#trips-profile{
-  background-color: var(--background-color);
-  font-family: "Poppins", sans-serif;
-}
-
-a, p {
-  color: var(--text-color-secondary);
-}
-
 header {
   height: 80px;
   border: lime 1px solid;
